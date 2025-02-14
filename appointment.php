@@ -28,3 +28,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <input type='text' name='slot_id' placeholder='Slot ID' required>
     <button type='submit'>Book Appointment</button>
 </form>
+<!-- by Liveupx -->
